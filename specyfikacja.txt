@@ -1,0 +1,8 @@
+Do stworzenia aplikacji został wykorzystany wzorzec MVC i podstawowe biblioteki .NET. Większość elementów została stworzona automatycznie przez Visual Studio.
+
+Klasa Contact zawiera wszystkie wymagane pola i stanowi model dla wpisów do bazy danych.
+Kontroler ContactsController został utworzony automatycznie przez Visual Studio i pozwala na dodawanie, edycję i usuwanie wpisów w aplikacji.
+Dla modelu Contact zostały również utworzone pliki cshtml odpowiedzialne za strukturę stron przeznaczonych do interakcji z danymi z klasy Contact.
+
+Aby móc dodawać, edytować lub usuwać wpisy, użytkownik musi być zalogowany.
+
